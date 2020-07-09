@@ -1,0 +1,17 @@
+[0707/151342.227:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0707/151342.239:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0707/151342.241:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0707/184352.064:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0707/184352.065:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0707/184352.074:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0707/184352.075:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/150411.796:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/150411.804:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0708/150411.805:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/151040.829:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/151040.836:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0708/151040.856:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0708/151040.858:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/224503.049:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
+[0708/224503.063:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0708/224503.065:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\ProgramData\Safe Family\Logs: Access is denied. (0x5)
